@@ -1,0 +1,14 @@
+{
+  "name": "ncm_base64",
+  "dependencies": {
+    "web-audio-api": "github:audiojs/web-audio-api",
+    "web-audio-api-cjs": "^0.2.4"
+  },
+  "bin": "ncm_base64.js",
+  "pkg": {
+    "assets": [
+        "./afp.wasm"
+    ]
+  }
+}
+
